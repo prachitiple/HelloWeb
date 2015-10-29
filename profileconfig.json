@@ -1,1 +1,1 @@
-{"OpenshiftServer":"https://ose3m-dev.example.com:8443","ProjectName":"prachi-test","BuildConfig":"my-aspnet-app","ServiceRoute":"http://my-aspnet-app-prachi-test.cloudapps.example.com"}
+{"OpenshiftServer":"https://ose3m-dev.example.com:8443","ProjectName":"project-zero","BuildConfig":"my-aspnet-app","ServiceRoute":"http://my-aspnet-app-project-zero.cloudapps.example.com"}
